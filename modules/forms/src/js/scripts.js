@@ -53,7 +53,7 @@ CRUMINA.submit = {
             },
             error: function ( jqXHR, textStatus ) {
                 swal( {
-                    title: 'Disabled Service Currently!',
+                    title: '!Disabled Service Currently!',
                     text: textStatus,
                     type: 'error'
                 } );
