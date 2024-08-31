@@ -780,7 +780,7 @@ var CRUMINA = {};
 					id: 'map',
 					map: {
 						center: new L.LatLng(28.690085878791304, 77.31241641033692),
-						zoom: 13,
+						zoom: 12,
 						maxZoom: 18,
 						layers: new L.tileLayer('https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png', {
 							maxZoom: 18,

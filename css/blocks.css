@@ -2356,7 +2356,7 @@ textarea {
   box-shadow: 0 -20px 40px rgba(0, 0, 0, 0.3);
   position: relative;
   z-index: 30;
-  -webkit-transition: all .3s ease;
+  /* -webkit-transition: all .3s ease; */
   -o-transition: all .3s ease;
   transition: all .3s ease; }
   @media (max-width: 1024px) {
